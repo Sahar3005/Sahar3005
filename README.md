@@ -8,8 +8,6 @@
 
 🚀 Currently building projects and improving my problem-solving skills through AI/ML and real-world applications.
 
----
-
 ## 👩‍💻 About Me
 
 * 🎓 Pursuing B.Tech in Computer Science and Engineering(AI and ML)
@@ -28,7 +26,6 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/Sahar3005?label=Followers&style=for-the-badge" />
 </p>
----
 
 ## 🛠️ Tech Stack
 
