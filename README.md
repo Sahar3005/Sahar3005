@@ -25,6 +25,9 @@
   <img src="https://komarev.com/ghpvc/?username=Sahar3005&label=Profile%20Views&color=0e75b6&style=flat" alt="Sahar3005" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Sahar3005?label=Followers&style=for-the-badge" />
+</p>
 ---
 
 ## 🛠️ Tech Stack
