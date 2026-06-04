@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Sahar+Ansari;B.Tech+CSE+Student;Python+Developer;Data+Analytics+Enthusiast;AI+%26+ML+Learner" />
 </p>
 
-### 🎓 B.Tech Computer Science and Engineering Student
+### 🎓 B.Tech Computer Science and Engineering Student (AI & ML)
 
 💡 Passionate about AI, ML, Data Analytics, and Software Development
 
